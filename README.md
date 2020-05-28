@@ -12,5 +12,5 @@ You must then download the latest zip file from the [releases page](https://gith
 ![Resizable Mode](https://i.imgur.com/b3QM6R1.png)
 
 ## Changelog
-Release 1.0: Updated to work with '[Resource Packs](https://github.com/melkypie/resource-packs)' 1.0.2
- 
+Release 1.0.2: Updated to work with '[Resource Packs](https://github.com/melkypie/resource-packs)' 1.0.2
+Release 1.0: Initial release
